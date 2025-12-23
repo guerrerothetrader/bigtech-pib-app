@@ -2,4 +2,4 @@ streamlit==1.32.0
 pandas==2.2.0
 yfinance==0.2.40
 plotly==5.22.0
-kaleido==0.2.1
+
